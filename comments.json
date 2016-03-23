@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1420070400011,
+        "author": "Alice Robinson",
+        "text": "I am a test."
+    },
+    {
+        "id": 1458774331851,
+        "author": "Alice Robinson",
+        "text": "test2"
+    },
+    {
+        "id": 1458774346052,
+        "author": "TEST",
+        "text": "TSET"
+    }
+]
